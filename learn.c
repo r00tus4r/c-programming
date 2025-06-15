@@ -1,4 +1,4 @@
-// getting started with c programming
+// getting started with c language
 
 #include <stdio.h>
 
